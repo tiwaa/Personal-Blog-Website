@@ -1,0 +1,61 @@
+@import "layout.css";
+@import "images.css";
+@import "fonts.css";
+
+#box1{
+  background: rgb(15% 50% 35%);
+}
+
+#box2{
+  background-color: rgb(96 96 96);
+}
+
+#box4{
+  background-color: black;
+}
+
+#logo{
+  color: white;
+}
+
+.link{
+  text-decoration: none;
+  color: white;
+}
+
+.con_link{
+  text-decoration: none;
+  color: rgb(204 0 0);
+}
+
+.card{
+  background-color: rgb(204 255 204);
+}
+
+#facts_content{
+  background-color: rgb(204 204 255);
+}
+
+#sidebar{
+  background-color: rgb(229 255 204);
+}
+
+.about_main{
+  background-color: rgb(153 153 255);
+}
+
+#author{
+  background-color: rgb(102 102 255);
+}
+
+.author_info{
+  color: white;
+}
+
+#tips_ex{
+  color: red;
+}
+
+#list_ex{
+  color: red;
+}

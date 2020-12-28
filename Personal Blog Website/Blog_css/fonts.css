@@ -1,0 +1,53 @@
+.link{
+  font-size: 35px;
+}
+
+.con_link{
+  font-size: 20px
+}
+
+#facts{
+  font: 2rem 'AmstelvarAlpha', sans-serif;
+  font-size: 20px;
+  color: black;
+}
+
+#facts_content{
+  font-size: 50px;
+}
+
+#facts_list{
+  font-size: 30px;
+  color: purple;
+}
+
+#card_list{
+  font-size: 25px;
+  font-style: italic;
+  font-weight: bold;
+  color: red;
+  font-family: cursive;
+  list-style-type: disc;
+}
+
+#hd_font{
+  text-decoration: underline;
+}
+
+#caption_ex{
+  padding-left: 6px;
+  color: red;
+  text-shadow: 2px 4px rgb(114, 107, 14);
+  font-size: 70px;
+  text-align: center;
+}
+
+#tips_ex{
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+#list_ex{
+  font-size: 25px;
+}

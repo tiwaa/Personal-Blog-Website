@@ -1,0 +1,48 @@
+#box3{
+  background-image: url('../Blog_images/yoga.png');
+  background-size: contain;
+}
+
+#facebook{
+  background-image: url('../Blog_images/facebook.png');
+  background-size: contain;
+}
+
+#linkedin{
+  background-image: url('../Blog_images/linkedin.png');
+  background-size: contain;
+}
+
+#twitter{
+  background-image: url('../Blog_images/twitter.png');
+  background-size: contain;
+}
+#junk{
+  background-image: url('../Blog_images/junk_foods.png');
+  background-position: stretch;
+}
+
+#self_med{
+  background-image: url('../Blog_images/self_med.png');
+  background-position: stretch;
+}
+
+#stress{
+  background-image: url('../Blog_images/stress.png');
+  background-position: stretch;
+}
+
+#greek_yoghurt{
+  background-image: url('../Blog_images/greek_yoghurt.png');
+  background-position: stretch;
+}
+
+#quinoa{
+  background-image: url('../Blog_images/quinoa.png');
+  background-position: stretch;
+}
+
+#cinnamon{
+  background-image: url('../Blog_images/cinnamon.png');
+  background-position: stretch;
+}
